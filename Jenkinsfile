@@ -3,7 +3,7 @@ pipeline {
 
   environment {
        imagename = "rukoyah/first_repo"
-       registryCredential = 'dockerpass'
+       registryCredential = 'dockerpasswd'
        dockerImage = ''
            }
 
